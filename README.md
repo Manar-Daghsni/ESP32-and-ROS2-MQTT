@@ -101,3 +101,10 @@ ros2 run robot_call call_manager.py
 - [ESP32 Arduino](https://www.espressif.com/en/products/socs/esp32)  
 - [MQTT Python Paho](https://pypi.org/project/paho-mqtt/)
   
+---
+
+## 📧 Contact
+**Manar Daghsni**  
+📧 manardaghsni@gmail.com  
+🔗 https://linkedin.com/in/daghsni-manar  
+
